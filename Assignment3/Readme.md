@@ -1,4 +1,5 @@
----
+This project implements Neural Style Transfer using a pre-trained VGG19 network in PyTorch. The
+aim is to generate a target image that combines the content of one image with the style of another.
 
 ## ?? Project Files
 
